@@ -1,0 +1,12 @@
+Ultrabook
+8GB - 32
+16GB - 8
+4GB - 2
+Notebook
+8GB - 47
+4GB - 56
+2GB - 1
+16GB - 7
+6GB - 5
+Netbook
+2GB - 1
